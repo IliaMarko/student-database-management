@@ -11,7 +11,7 @@
 #include <sys/types.h>
 
 //you need to define the path where the folder is.
-#define PATH "/home/iliamarko/Desktop/ikubINFO/folder"
+#define PATH "./folder"
 
 #include "database.h"
 
